@@ -10,3 +10,4 @@ Diseñar e implementar una base de datos relacional que permita almacenar y gest
 
 Notas:
 1. En este repositorio encontrará un PDF que refiere a lo pedido en Entrega 2 y otro PDF que refiere al trabajo final completo. En lo que respecta al código, encontratrá un sólo archivo SQL, ya que se trabajó con los mismos entregables a nivel código en entrega 2 que en entrega final. Este archivo cumple con todo lo requerido en entrega final.
+2. Adjunto aqui también el link al repositorio donde se encuentra la entrega 1
